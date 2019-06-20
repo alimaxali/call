@@ -1,5 +1,5 @@
 
-pkg install ruby
+pkg install ruby -y
 gem install colorize
 cd
 rm -rif ali-max.key
